@@ -3,7 +3,8 @@
 <img src='https://media.discordapp.net/attachments/1013902048107974808/1017515936598741061/7268e1da-94b8-455c-a81d-ba5ae18d209b.gif'>
 
 # My projects is 🌿
-* Desires — feature-packed, fast-growing discord bot that exploded in 2021 and won the hearts of many users of the Discord platform.
+* Asehika
+* Yumi
 
 # Languages and Tools
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
