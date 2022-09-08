@@ -20,5 +20,5 @@
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=32a0ff)
 
 # Github Stats
-![GitHub](https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&theme=merko)](https://github.com/HekaHub/github-readme-stats)
+![GitHub](https://github-readme-stats.vercel.app/api?username=amulet9999&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amulet9999&theme=merko)](https://github.com/amulet9999/github-readme-stats)
