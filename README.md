@@ -3,7 +3,7 @@
 <img src='https://media.discordapp.net/attachments/1013902048107974808/1017515936598741061/7268e1da-94b8-455c-a81d-ba5ae18d209b.gif'>
 
 # My projects is 🌿
-* Asehika
+* Mitny
 * Yumi
 
 # Languages and Tools
